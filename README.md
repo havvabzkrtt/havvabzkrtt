@@ -1,5 +1,8 @@
 ### Hi there 👋
+:stuck_out_tongue_winking_eye:
+:stuck_out_tongue_winking_eye:
 
+-----HELLO----
 <!--
 **havvabzkrtt/havvabzkrtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
