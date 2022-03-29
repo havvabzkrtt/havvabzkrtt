@@ -1,6 +1,4 @@
 ### Hi there 👋
-:stuck_out_tongue_winking_eye:
-:stuck_out_tongue_winking_eye:
 
 
 <!--
