@@ -1,14 +1,12 @@
 ## Hi there 👋
-### My name is Havva, i am 19 years old and i am a computer engineering student. :slightly_smiling_face:
+### My name is Havva, i am a computer engineering student. :slightly_smiling_face:
 
 ![markdown](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![markdown](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
 ![language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![language](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username={havvabzkrtt}) 
-![language]( )
-![language]( )
+
 
 <!--
 **havvabzkrtt/havvabzkrtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
