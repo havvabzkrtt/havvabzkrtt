@@ -1,12 +1,18 @@
-## Hi there 👋
+>## Hi there 👋
 ### My name is Havva, i am a computer engineering student. :slightly_smiling_face:
 
 
+<br>
 
-|e-mail | havvabzkrt35@gmail.com|
-|------|----------------------|
-| linkedin | https://www.linkedin.com/in/havvanur-bozkurt-020510hb/ |
 
+|![sosyal](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)| havvabzkrt35@gmail.com| 
+|---|--|
+|![sosyal](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)| https://www.linkedin.com/in/havvanur-bozkurt-020510hb/ |
+
+
+<br>
+
+![TGQ3](https://user-images.githubusercontent.com/81237002/161098333-1f23cd91-5d00-45ef-a769-1b8817ec6456.gif) 
 
 
 🌱 I’m currently learning python programming language. <br> <br>
@@ -24,7 +30,7 @@
 -->
 
 
-![TGQ3](https://user-images.githubusercontent.com/81237002/161098333-1f23cd91-5d00-45ef-a769-1b8817ec6456.gif) 
+
 
 
 
