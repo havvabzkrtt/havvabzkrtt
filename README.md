@@ -12,8 +12,10 @@
 
 
 <br>
+## Do you want a joke 
 
-![TGQ3](https://user-images.githubusercontent.com/81237002/161098333-1f23cd91-5d00-45ef-a769-1b8817ec6456.gif) 
+
+![Deponuzun İstatistikleri]( https://github-readme-stats.vercel.app/api/top-langs/?username=havvabzkrtt&theme=blue-green)![TGQ3](https://user-images.githubusercontent.com/81237002/161098333-1f23cd91-5d00-45ef-a769-1b8817ec6456.gif) 
 
 
 🌱 I’m currently learning python programming language. <br> <br>
