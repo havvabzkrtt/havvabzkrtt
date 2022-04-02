@@ -32,7 +32,7 @@
 
 
 
-
+![Şakalar Kartı]( https://readme-jokes.vercel.app/api)
 
 
 
