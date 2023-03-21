@@ -1,5 +1,5 @@
 >## Hi there 👋
-### My name is Havva, i am a computer engineering student. :slightly_smiling_face: 
+### My name is Havvanur, i am a computer engineering student. :slightly_smiling_face: 
 
 
 ![sosyal](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)| havvabzkrt35@gmail.com| 
