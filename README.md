@@ -9,9 +9,9 @@
 
 
 
-
+<!--
 ![TGQ3](https://user-images.githubusercontent.com/81237002/161098333-1f23cd91-5d00-45ef-a769-1b8817ec6456.gif) 
-
+-->
 <!--
 
 >![language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
