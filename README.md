@@ -41,15 +41,14 @@
 
 
 <br><br>
-
+<!--
 -----------
 
 > ### _Do you want a radom joke ?_ :slightly_smiling_face: 
 
 ![Şakalar Kartı]( https://readme-jokes.vercel.app/api)
 
-
-
+-->
 <!--
 **havvabzkrtt/havvabzkrtt** is a 
 al_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
