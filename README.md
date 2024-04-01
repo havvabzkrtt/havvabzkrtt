@@ -1,9 +1,6 @@
 >## Hi there 👋
 ### My name is Havvanur, i am a computer engineering student. :slightly_smiling_face: 
 
-
-
-
 <!--
 <br>
 -->
