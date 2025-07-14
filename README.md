@@ -1,4 +1,8 @@
->## Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=007ACC&center=true&vCenter=true&width=1200&lines=Hi+there+👋%2C+I+am+Havvanur+Bozkurt.;I'm+currently+working+on+projects+in+the+field+of+artificial+intelligence.)](https://github.com/havvabozkurt)
+
+
+
 <!--
 ### My name is Havvanur, i am a computer engineering student. :slightly_smiling_face: 
 -->
